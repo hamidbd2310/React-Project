@@ -7,9 +7,9 @@ const IfElse = () => {
         <div>
             {
             marks>=80?
-            <h1>A+</h1>
+            <p>A+</p>
             :
-            <h1>A-</h1>}
+            <p>A-</p>}
         </div>
     );
 };
