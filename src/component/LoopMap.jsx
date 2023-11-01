@@ -7,7 +7,7 @@ const LoopMap = () => {
             
                 {
                     city.map((item,i)=>{
-                        return<h1 key={i.toString}>{item}</h1>
+                        return<p key={i.toString}>{item}</p>
                     })
                 }
             

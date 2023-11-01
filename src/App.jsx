@@ -6,6 +6,7 @@ import IfElse from "./component/IfElse";
 import IMIF from "./component/IMIF";
 import Loop from "./component/Loop";
 import LoopMap from "./component/LoopMap";
+import ConditionalRendering from "./component/ConditionalRendering";
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
       <IMIF/>
       <Loop/>
       <LoopMap/>
+      <ConditionalRendering/>
       
     </div>
   );
