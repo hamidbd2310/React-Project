@@ -1,11 +1,21 @@
+import Header from "./component/Header";
+import Hero from './component/Hero';
+import Footer from './component/Footer';
+import ContactForm from "./component/ContactForm";
+import IfElse from "./component/IfElse";
 
-function App() {
 
+const App = () => {
   return (
-    <>
-<h1>Hello World</h1>
-    </>
-  )
-}
+    <div>
+      <Header/>
+      <Hero/>
+      <ContactForm/>
+      <Footer/>
+      <IfElse/>
+      
+    </div>
+  );
+};
 
-export default App
+export default App;
