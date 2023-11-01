@@ -4,6 +4,7 @@ import Footer from './component/Footer';
 import ContactForm from "./component/ContactForm";
 import IfElse from "./component/IfElse";
 import IMIF from "./component/IMIF";
+import Loop from "./component/Loop";
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <Footer/>
       <IfElse/>
       <IMIF/>
+      <Loop/>
       
     </div>
   );
