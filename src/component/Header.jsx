@@ -3,10 +3,8 @@
 const Header = () => {
     return (
         <div>
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-            </ul>
+            <a href="/">Home</a>
+            <a href="">About</a>
         </div>
     );
 };

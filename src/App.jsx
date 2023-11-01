@@ -1,4 +1,4 @@
-import Swcase from "./component/Swcase";
+import Header from "./component/Header";
 
 
 
@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div>
     
- <Swcase/>
+ <Header/>
       
     </div>
   );
