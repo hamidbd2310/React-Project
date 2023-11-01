@@ -5,6 +5,7 @@ import ContactForm from "./component/ContactForm";
 import IfElse from "./component/IfElse";
 import IMIF from "./component/IMIF";
 import Loop from "./component/Loop";
+import LoopMap from "./component/LoopMap";
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
       <IfElse/>
       <IMIF/>
       <Loop/>
+      <LoopMap/>
       
     </div>
   );

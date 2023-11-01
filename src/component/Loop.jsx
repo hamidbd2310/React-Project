@@ -2,7 +2,7 @@
 
 const Loop = () => {
 
-    const city=['Pir Para','Jamal Para','Sapla Para', 'Pirer Sosur bari']
+    const city=['Pir Para','Jamal Para','Sapla Para', 'Pirer Sosur Bari Para']
     return (
         <div>
             <ul>
