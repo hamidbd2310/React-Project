@@ -1,5 +1,5 @@
 import Header from "./component/Header";
-
+import ConRen from "./component/ConRen";
 
 
 
@@ -9,6 +9,7 @@ const App = () => {
     <div>
     
  <Header/>
+ <ConRen/>
       
     </div>
   );
