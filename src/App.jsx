@@ -1,14 +1,15 @@
-import IMIF2 from "./component/IMIF2";
+import Props from "./component/Props";
+
 
 
 
 
 const App = () => {
   return (
-    <div>
+    <div> 
+      <Props title="Abdul Hamid" des="Web Developer"/>
 
- <IMIF2/>
-      
+ 
     </div>
   );
 };
