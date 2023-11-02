@@ -1,5 +1,5 @@
-import Header from "./component/Header";
-import ConRen from "./component/ConRen";
+
+import LogicalAndAnd from "./component/LogicalAndAnd";
 
 
 
@@ -7,9 +7,7 @@ import ConRen from "./component/ConRen";
 const App = () => {
   return (
     <div>
-    
- <Header/>
- <ConRen/>
+ <LogicalAndAnd/>
       
     </div>
   );
