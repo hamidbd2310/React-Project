@@ -1,5 +1,4 @@
-
-import LogicalAndAnd from "./component/LogicalAndAnd";
+import IMIF2 from "./component/IMIF2";
 
 
 
@@ -7,7 +6,8 @@ import LogicalAndAnd from "./component/LogicalAndAnd";
 const App = () => {
   return (
     <div>
- <LogicalAndAnd/>
+
+ <IMIF2/>
       
     </div>
   );

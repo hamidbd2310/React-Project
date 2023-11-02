@@ -1,7 +1,7 @@
 
 
 const LogicalAndAnd = () => {
-    let status=false;
+    let status=true;
     return (
         <div>
             <h1>User</h1>
