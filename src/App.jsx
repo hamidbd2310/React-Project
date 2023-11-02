@@ -1,17 +1,15 @@
-import ItemOpjet from "./component/ItemOpjet";
 
+import PropsFuntionPass1 from "./component/PropsFuntionPass1";
 
 const App = () => {
-  const ItemOpj={
-    name:"Abdul Hamid",
-    age:32,
-    city:"Chuadanga" ,
+
+  const BtnClick=()=>{
+    alert("Say Hello");
   }
   return (
     <div> 
-      <ItemOpjet item={ItemOpj}/>
-
- 
+      
+<PropsFuntionPass1 childBtnClick={BtnClick}/>.
     </div>
   );
 };
